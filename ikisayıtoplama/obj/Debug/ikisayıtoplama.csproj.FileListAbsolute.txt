@@ -1,0 +1,11 @@
+C:\Users\User\source\repos\ikisayıtoplama\ikisayıtoplama\bin\Debug\ikisayıtoplama.exe.config
+C:\Users\User\source\repos\ikisayıtoplama\ikisayıtoplama\bin\Debug\ikisayıtoplama.exe
+C:\Users\User\source\repos\ikisayıtoplama\ikisayıtoplama\bin\Debug\ikisayıtoplama.pdb
+C:\Users\User\source\repos\ikisayıtoplama\ikisayıtoplama\obj\Debug\ikisayıtoplama.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\ikisayıtoplama\ikisayıtoplama\obj\Debug\ikisayıtoplama.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\source\repos\ikisayıtoplama\ikisayıtoplama\obj\Debug\ikisayıtoplama.Form1.resources
+C:\Users\User\source\repos\ikisayıtoplama\ikisayıtoplama\obj\Debug\ikisayıtoplama.Properties.Resources.resources
+C:\Users\User\source\repos\ikisayıtoplama\ikisayıtoplama\obj\Debug\ikisayıtoplama.csproj.GenerateResource.cache
+C:\Users\User\source\repos\ikisayıtoplama\ikisayıtoplama\obj\Debug\ikisayıtoplama.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\ikisayıtoplama\ikisayıtoplama\obj\Debug\ikisayıtoplama.exe
+C:\Users\User\source\repos\ikisayıtoplama\ikisayıtoplama\obj\Debug\ikisayıtoplama.pdb
